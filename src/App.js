@@ -8,10 +8,10 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>This has been changed</h2>
+          <h2>Feature Branch testing</h2>
         </div>
         <p className="App-intro">
-          , Javascript is caca<code>src/App.js</code> and save to reload.
+          <code>src/App.js</code> and save to reload.
         </p>
       </div>
     );
